@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co.com/CQQfmYX/mao.gif" alt="">
+![Description](assets/mao.gif)
